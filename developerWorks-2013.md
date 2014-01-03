@@ -123,7 +123,7 @@
 * 启示录:打造用户喜爱的产品
 * 重来:更为简单有效的商业思维
 
-* 灵感之源  智能实验室创始人。做过开源，写过千万下载量软件，爱美剧电影音乐撸。居澳洲悉尼。twitter加我unruledboy。移民澳新的同学去freeoz论坛中国hioz域名。
+#### 灵感之源  智能实验室创始人。做过开源，写过千万下载量软件，爱美剧电影音乐撸。居澳洲悉尼。twitter加我unruledboy。移民澳新的同学去freeoz论坛中国hioz域名。
 
 * The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines, Second edition
 * High Performance Browser Networking: What Every Web Developer Should Know About Networking and Browser Performance
